@@ -2,7 +2,7 @@ Repositório com Extração de dados via API e mongo utilizando a base de dados 
 ========
 
 <p align="center">
-  <img src="images/arquitetura.png" width="250">
+  <img src="images/arquitetura.png" width="500">
 </p>
 
 <sub>*Projeto proposto pela XP EDUCAÇÃO:*</sub>
@@ -24,3 +24,5 @@ Repositório com Extração de dados via API e mongo utilizando a base de dados 
 7. Após configurar todas as task's basta no final fazer a orquestração:
 - Ex: função extrai precisa vir antes de upload então eu coloco. (extrai >> upload)
 - Ex: função transformação precisa vir depois de extrai e antes de upload. (extrai >> transformação >> upload)
+
+<sub>*Créditos ao professor [Neylson Crepalde](https://www.linkedin.com/in/neylsoncrepalde/)*</sub>
