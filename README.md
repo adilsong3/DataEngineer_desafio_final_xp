@@ -2,7 +2,7 @@ Repositório com Extração de dados via API e mongo utilizando a base de dados 
 ========
 
 <p align="center">
-  <img src="images/arquitetura.png">
+  <img src="images/arquitetura.png" width="250">
 </p>
 
 <sub>*Projeto proposto pela XP EDUCAÇÃO:*</sub>
